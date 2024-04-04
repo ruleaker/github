@@ -4,7 +4,7 @@
  - Just another scriptkid.
  - Building a BAS system.
  - Trying to create ~~(SKID)~~ a sharp&ez2use pentest-framework.
- - Personal Blog: https://urlzs.com/Aqnoj
+ - Personal Blog: [Blog here](https://www.cnblogs.com/ruleaker)
 
 <table>
     <tr>
